@@ -22,7 +22,7 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 - [ ] Header with minor navigation *(Logo and Catalog/Featured/Articles/About link list)*
 - [ ] Nav with Major navigation / page-manipulation *(search, custom text, font-size, dark/light mode, grid/list mode, and reset)*
 - [ ] Main section for the font cards
-- [ ] Font cards which display the Font Name, the sample text, and an add button
+- [ ] Font cards which display the Font Name, the sample text, and an add button (the font creator is **not** available via the api, so it is not required in tiers 2 or 3)
 - [ ] Back-to-top button that allows users to click and scroll back up to the top *(there could be up to 959 fonts displayed, so you need this!)*
 - [ ] Footer section with your developer information
 
@@ -39,6 +39,10 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 - [ ] On load, the page should display fonts sorted by current popularity, as returned by the Google Fonts Developer API *(see below)*
 - [ ] The search feature should be fully functional and should display matching fonts (it's up to you if you want to do this via a 'submit' or through onchange)
 - [ ] When the search input is cleared (via reset button or manually), the fonts should automaticaly display sorted by poplarity again
+
+*Other*
+- [ ] Your repo needs to have a robust README.md
+- [ ] Make sure that there are no errors in the developer console before submitting
 
 **Extras (Not Required)**
 
