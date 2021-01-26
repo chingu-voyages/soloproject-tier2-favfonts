@@ -10,6 +10,19 @@ As you add skills to your developer toolbag you'll be able to come back to this 
 
 **You May Use Frameworks and/or Libraries of Your Choosing**
 
+## About Chingu
+
+If you aren’t yet a member of Chingu we invite you to join us. We help our 
+members transform what they’ve learned in courses & tutorials into the 
+practical experience employers need and want.
+
+Our remote team projects let you refine your technical skills and put them 
+into practice while gaining new “soft” skills like communication, 
+collaboration, and Agile project management. The types of skills that 
+help real-world teams get things done!
+
+You can learn more and join us at [chingu.io](https://chingu.io).
+
 ## Instructions ##
 
 Tier 2 realizes this project as a fully developed front-end app. A back-end is not necessary. If you would like to add a back-end, consider moving over to the Tier 3 repo.
